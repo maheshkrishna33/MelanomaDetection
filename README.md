@@ -22,7 +22,7 @@ All images were sorted according to the classification taken with ISIC, and all 
 - A CNN model with no drop out helped us achieve 57 percent accuracy
 - A CNN model with augmentation and dropout further reduced the accuracy percentage to 47
 - A CNN model with data augmentation strategy  and class imbalance rectification by adding 500 samples to each class Helped us achieve 86 percent accuracy
-- Conclusion 4 from the analysis
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
